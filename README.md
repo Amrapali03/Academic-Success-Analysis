@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Analysis for Academic Success
 
 ## Project Overview
 This project analyzes the socio-economic factors that influence the academic performance of secondary school students. Using the [Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/Student+Performance), we explore relationships between various features like parental education, alcohol consumption, and student grades. The goal is to build a model that can predict student performance and provide insights into the key factors that lead to academic success.
